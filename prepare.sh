@@ -2,7 +2,7 @@
 
 mod_path="$HOME/fgmod"
 nvidiaver=555.52.04
-enablerver=3.02.000.0
+enablerver=3.03.000.0 TRUNK
 fakenvapiver=v1.2.0
 # standalone makes use of fgmod.sh and fgmod-uninstaller.sh from the working directory
 # To make it fully standalone with files being installed to pwd, set standalone=1 and mod_path=.
